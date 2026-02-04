@@ -1,8 +1,4 @@
 # Week4
-/ (root)
- ├─ index.html
- └─ styles.css
- └─ IMG_4394.jpeg
 <!DOCTYPE html>
 <html lang="en">
 <head>
