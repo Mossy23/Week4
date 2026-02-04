@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>My Personal Website</title>
+My Personal Website
   <link rel="stylesheet" href="styles.css">
 </head>
 <body>
