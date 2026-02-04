@@ -1,5 +1,4 @@
 # Week4
-<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
